@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HausWeb/static/css/main.112e7df5.chunk.css",
+    "main.js": "/HausWeb/static/js/main.614e1bce.chunk.js",
+    "main.js.map": "/HausWeb/static/js/main.614e1bce.chunk.js.map",
+    "runtime-main.js": "/HausWeb/static/js/runtime-main.6efc5b35.js",
+    "runtime-main.js.map": "/HausWeb/static/js/runtime-main.6efc5b35.js.map",
+    "static/css/2.62cc171c.chunk.css": "/HausWeb/static/css/2.62cc171c.chunk.css",
+    "static/js/2.79691653.chunk.js": "/HausWeb/static/js/2.79691653.chunk.js",
+    "static/js/2.79691653.chunk.js.map": "/HausWeb/static/js/2.79691653.chunk.js.map",
+    "index.html": "/HausWeb/index.html",
+    "static/css/2.62cc171c.chunk.css.map": "/HausWeb/static/css/2.62cc171c.chunk.css.map",
+    "static/css/main.112e7df5.chunk.css.map": "/HausWeb/static/css/main.112e7df5.chunk.css.map",
+    "static/js/2.79691653.chunk.js.LICENSE.txt": "/HausWeb/static/js/2.79691653.chunk.js.LICENSE.txt",
+    "static/media/BGImage.a491ff17.jpeg": "/HausWeb/static/media/BGImage.a491ff17.jpeg",
+    "static/media/Haus29_02.292673d4.jpg": "/HausWeb/static/media/Haus29_02.292673d4.jpg",
+    "static/media/Haus29_04.a19163da.jpeg": "/HausWeb/static/media/Haus29_04.a19163da.jpeg",
+    "static/media/Haus29_06.191b60ef.jpeg": "/HausWeb/static/media/Haus29_06.191b60ef.jpeg",
+    "static/media/Haus31_01.7eb54772.jpg": "/HausWeb/static/media/Haus31_01.7eb54772.jpg",
+    "static/media/IMG-5177.e8e21e65.jpg": "/HausWeb/static/media/IMG-5177.e8e21e65.jpg",
+    "static/media/IMG_0240.0185231d.JPG": "/HausWeb/static/media/IMG_0240.0185231d.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6efc5b35.js",
+    "static/css/2.62cc171c.chunk.css",
+    "static/js/2.79691653.chunk.js",
+    "static/css/main.112e7df5.chunk.css",
+    "static/js/main.614e1bce.chunk.js"
+  ]
+}
