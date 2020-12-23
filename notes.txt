@@ -1,0 +1,14 @@
+-Parrallax scrolling
+-Navbar mit scrolling
+
+
+-Themen:
+    - Wieso uns?
+        - lange Planung
+            -> Gute Qualität
+        - elegantes design
+        - viel Erfahrung
+        - geringer Preis durch langjährige Planung
+    - Unsere Projekte
+    - Bereits in Planung
+    - Galerie
